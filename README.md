@@ -1,2 +1,3 @@
 # CodeSquad_Test
-Test repository
+
+-First Github repo for CodeSquad Mini course.
